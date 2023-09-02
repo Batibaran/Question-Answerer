@@ -1,0 +1,3 @@
+C:/Users/baran/Desktop/3005 project/3005Project/cmake-build-debug/CMakeFiles/3005Project.dir
+C:/Users/baran/Desktop/3005 project/3005Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/baran/Desktop/3005 project/3005Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir

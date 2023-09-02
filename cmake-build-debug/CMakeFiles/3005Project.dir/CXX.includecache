@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/baran/Desktop/3005 project/3005Project/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+fstream
+-
+algorithm
+-
+vector
+-
+cstdlib
+-
+unordered_map
+-
+unordered_set
+-
+chrono
+-
+porter2_stemmer.cpp
+C:/Users/baran/Desktop/3005 project/3005Project/porter2_stemmer.cpp
+
+C:/Users/baran/Desktop/3005 project/3005Project/porter2_stemmer.cpp
+algorithm
+-
+utility
+-
+unordered_map
+-
+porter2_stemmer.h
+C:/Users/baran/Desktop/3005 project/3005Project/porter2_stemmer.h
+
+C:/Users/baran/Desktop/3005 project/3005Project/porter2_stemmer.h
+vector
+-
+string
+-
+util/string_view.h
+C:/Users/baran/Desktop/3005 project/3005Project/util/string_view.h
+
+C:/Users/baran/Desktop/3005 project/3005Project/util/hash.h
+array
+-
+cassert
+-
+cstdint
+-
+random
+-
+
+C:/Users/baran/Desktop/3005 project/3005Project/util/string_view.h
+hash.h
+C:/Users/baran/Desktop/3005 project/3005Project/util/hash.h
+experimental/string_view
+-
+algorithm
+-
+stdexcept
+-
+string
+-
+
